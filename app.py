@@ -315,7 +315,7 @@ def show_healthy_lifestyle():
     """)
 
     st.header("Makanan Sehat untuk Jantung")
-    st.image('Makanan Sehat.jpg', caption='Makanan sehat', use_column_width=True)
+    st.image('makanan Sehat.jpg', caption='Makanan sehat', use_column_width=True)
     st.write("""
     Makanan yang baik untuk kesehatan jantung meliputi:
     - Buah-buahan dan sayuran
