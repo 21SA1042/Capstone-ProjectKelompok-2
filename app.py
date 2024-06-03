@@ -69,7 +69,7 @@ def main():
     if 'logged_in' not in st.session_state:
         st.session_state.logged_in = False
 
-    st.header("Website Prediksi Gagal Jantung", anchor=None)
+    st.header("JANTUNG CERDAS", anchor=None)
 
     if st.session_state.logged_in:
         tabs = ["Informasi Gagal Jantung", "Chat Bot", "Prediksi Penyakit Jantung", "Pola Hidup Sehat", "Logout"]
@@ -340,7 +340,7 @@ def show_healthy_lifestyle():
 
 def show_login():
     st.title("Login")
-    st.write("Selamat datang di web biasa aja kami")
+    st.write("selamat datang di website kami tentukan cara yang lebih baik untuk memprediksi kesehatan jantung anda dengan jantung cerdas")
     email = st.text_input("Email")
     password = st.text_input("Password", type="password")
 
