@@ -1,11 +1,11 @@
 "#Capstone-ProjectKelompok-2" 
 
 **Team 2**
-Aurelia Vianne A
-Defi Sulistiyowati
-Gefy Fitry Wijaya
-Nugroho Mohammad Al Aziz
-Tobasa Sihite
+- Aurelia Vianne A
+- Defi Sulistiyowati
+- Gefy Fitry Wijaya
+- Nugroho Mohammad Al Aziz
+- Tobasa Sihite
 
 
 Jantung Cerdas
